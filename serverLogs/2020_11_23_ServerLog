@@ -1,0 +1,133 @@
+2020-11-23 10:25:36.281771 [erro]: Mysql connect failed
+2020-11-23 10:25:36.281801 [info]: et model
+2020-11-23 10:27:11.785551 [info]: et model
+2020-11-23 10:27:11.785717 [info]: add fd successfully !
+2020-11-23 10:27:31.862525 [info]: new connection fd = 18
+2020-11-23 10:28:11.175518 [info]: new connection fd = 18
+2020-11-23 10:29:26.486695 [info]: et model
+2020-11-23 10:29:26.487605 [info]: add fd successfully !
+2020-11-23 10:43:16.183330 [info]: et model
+2020-11-23 10:43:16.183442 [info]: add fd successfully !
+2020-11-23 10:46:20.854010 [info]: et model
+2020-11-23 10:46:20.854120 [info]: add fd successfully !
+2020-11-23 10:46:23.038509 [info]: new connection fd = 18
+2020-11-23 10:46:37.232050 [info]: new connection fd = 18
+2020-11-23 10:52:50.013748 [info]: et model
+2020-11-23 10:52:50.013861 [info]: add fd successfully !
+2020-11-23 10:52:56.326104 [info]: new connection fd = 18
+2020-11-23 10:56:07.842511 [info]: et model
+2020-11-23 10:56:07.842628 [info]: add fd successfully !
+2020-11-23 11:16:11.021218 [info]: et model
+2020-11-23 11:16:11.021668 [info]: add fd successfully !
+2020-11-23 11:25:26.529985 [info]: et model
+2020-11-23 11:25:26.530111 [info]: add fd successfully !
+2020-11-23 11:39:47.597735 [info]: et model
+2020-11-23 11:39:47.598133 [info]: add fd successfully !
+2020-11-23 11:39:51.405200 [info]: new connection fd = 18
+2020-11-23 11:40:43.472605 [info]: new connection fd = 18
+2020-11-23 11:43:52.924352 [info]: et model
+2020-11-23 11:43:52.925567 [info]: add fd successfully !
+2020-11-23 11:43:55.636002 [info]: new connection fd = 18
+2020-11-23 11:44:28.128817 [info]: new connection fd = 18
+2020-11-23 11:45:17.633802 [info]: new connection fd = 18
+2020-11-23 11:48:37.855680 [info]: et model
+2020-11-23 11:48:41.664102 [info]: et model
+2020-11-23 11:48:41.664217 [info]: add fd successfully !
+2020-11-23 11:49:30.433458 [info]: new connection fd = 18
+2020-11-23 11:50:05.930014 [info]: new connection fd = 18
+2020-11-23 11:50:42.931451 [info]: new connection fd = 18
+2020-11-23 11:51:20.020299 [info]: new connection fd = 18
+2020-11-23 12:42:23.605300 [info]: et model
+2020-11-23 12:42:23.605419 [info]: add fd successfully !
+2020-11-23 12:50:22.775304 [info]: et model
+2020-11-23 12:50:22.775416 [info]: add fd successfully !
+2020-11-23 12:56:45.872280 [info]: et model
+2020-11-23 12:56:45.872399 [info]: add fd successfully !
+2020-11-23 12:56:54.929618 [info]: new connection fd = 18
+2020-11-23 12:57:50.003260 [info]: new connection fd = 18
+2020-11-23 13:01:27.840596 [info]: et model
+2020-11-23 13:01:27.841556 [info]: add fd successfully !
+2020-11-23 13:01:34.803535 [info]: new connection fd = 18
+2020-11-23 13:02:26.940896 [info]: new connection fd = 18
+2020-11-23 13:02:59.278269 [info]: new connection fd = 18
+2020-11-23 13:03:45.263608 [info]: new connection fd = 18
+2020-11-23 13:05:06.186159 [info]: new connection fd = 18
+2020-11-23 13:05:38.731318 [info]: new connection fd = 18
+2020-11-23 13:06:34.389318 [info]: new connection fd = 18
+2020-11-23 13:07:38.975066 [info]: new connection fd = 18
+2020-11-23 13:08:15.936316 [info]: new connection fd = 18
+2020-11-23 13:08:31.312421 [info]: new connection fd = 19
+2020-11-23 13:12:55.143042 [info]: new connection fd = 18
+2020-11-23 13:13:29.351876 [info]: new connection fd = 18
+2020-11-23 13:13:37.975981 [info]: new connection fd = 19
+2020-11-23 13:13:59.424994 [info]: new connection fd = 18
+2020-11-23 13:14:04.120706 [info]: new connection fd = 20
+2020-11-23 13:14:12.648925 [info]: new connection fd = 19
+2020-11-23 13:16:38.325323 [info]: et model
+2020-11-23 13:16:38.326111 [info]: add fd successfully !
+2020-11-23 13:16:41.437033 [info]: new connection fd = 18
+2020-11-23 13:17:43.462273 [info]: new connection fd = 18
+2020-11-23 13:18:42.655793 [info]: new connection fd = 18
+2020-11-23 13:39:41.157032 [info]: et model
+2020-11-23 13:39:41.157150 [info]: add fd successfully !
+2020-11-23 13:39:48.185813 [info]: new connection fd = 18
+2020-11-23 13:39:48.186691 [info]: new connection fd = 19
+2020-11-23 13:40:08.533801 [info]: et model
+2020-11-23 13:40:08.534611 [info]: add fd successfully !
+2020-11-23 13:40:11.634903 [info]: new connection fd = 18
+2020-11-23 14:26:06.990701 [info]: et model
+2020-11-23 14:26:06.991233 [info]: add fd successfully !
+2020-11-23 14:27:06.698456 [info]: et model
+2020-11-23 14:27:06.699043 [info]: add fd successfully !
+2020-11-23 14:27:09.902494 [info]: new connection fd = 18
+2020-11-23 15:03:59.796854 [info]: et model
+2020-11-23 15:03:59.797252 [info]: add fd successfully !
+2020-11-23 15:04:02.896105 [info]: new connection fd = 18
+2020-11-23 15:04:02.897864 [info]: new connection fd = 19
+2020-11-23 15:04:02.990872 [erro]: stat error errno = 2
+2020-11-23 15:04:13.352523 [info]: new connection fd = 19
+2020-11-23 15:04:13.415879 [erro]: stat error errno = 2
+2020-11-23 15:04:25.437826 [info]: new connection fd = 18
+2020-11-23 15:04:25.750931 [erro]: stat error errno = 2
+2020-11-23 15:04:54.807021 [info]: new connection fd = 18
+2020-11-23 15:04:54.807417 [erro]: stat error errno = 2
+2020-11-23 15:05:25.093312 [info]: new connection fd = 18
+2020-11-23 15:05:25.093485 [info]: new connection fd = 19
+2020-11-23 15:05:25.154976 [erro]: stat error errno = 2
+2020-11-23 15:05:54.819611 [info]: new connection fd = 18
+2020-11-23 15:05:54.819913 [erro]: stat error errno = 2
+2020-11-23 15:06:48.462977 [info]: new connection fd = 18
+2020-11-23 15:06:48.463501 [info]: new connection fd = 19
+2020-11-23 15:06:48.541796 [erro]: stat error errno = 2
+2020-11-23 15:07:17.838108 [info]: new connection fd = 18
+2020-11-23 15:07:17.838431 [erro]: stat error errno = 2
+2020-11-23 15:07:57.530824 [info]: new connection fd = 18
+2020-11-23 15:07:57.530900 [info]: new connection fd = 19
+2020-11-23 15:07:57.706394 [erro]: stat error errno = 2
+2020-11-23 15:08:26.851717 [info]: new connection fd = 18
+2020-11-23 15:08:26.852027 [erro]: stat error errno = 2
+2020-11-23 15:08:39.060795 [info]: new connection fd = 19
+2020-11-23 15:08:39.091084 [erro]: stat error errno = 2
+2020-11-23 15:08:42.569984 [info]: new connection fd = 18
+2020-11-23 15:08:42.586854 [erro]: stat error errno = 2
+2020-11-23 15:09:11.859683 [info]: new connection fd = 18
+2020-11-23 15:09:11.860035 [erro]: stat error errno = 2
+2020-11-23 15:11:05.600067 [info]: new connection fd = 18
+2020-11-23 15:11:05.600167 [info]: new connection fd = 19
+2020-11-23 15:11:09.535239 [erro]: stat error errno = 2
+2020-11-23 15:11:13.410217 [erro]: stat error errno = 2
+2020-11-23 15:11:17.729610 [info]: new connection fd = 20
+2020-11-23 15:11:20.200682 [erro]: stat error errno = 2
+2020-11-23 15:11:40.223508 [info]: new connection fd = 18
+2020-11-23 15:11:40.223622 [erro]: stat error errno = 2
+2020-11-23 15:11:49.893353 [info]: new connection fd = 19
+2020-11-23 15:11:49.893704 [erro]: stat error errno = 2
+2020-11-23 15:22:54.048028 [info]: new connection fd = 18
+2020-11-23 15:22:54.048210 [info]: new connection fd = 19
+2020-11-23 15:22:54.106338 [erro]: stat error errno = 2
+2020-11-23 15:22:56.906798 [erro]: stat error errno = 2
+2020-11-23 15:23:02.063741 [info]: new connection fd = 18
+2020-11-23 15:23:22.106029 [erro]: stat error errno = 2
+2020-11-23 15:23:26.048332 [info]: new connection fd = 19
+2020-11-23 15:23:26.048678 [erro]: stat error errno = 2
+2020-11-23 15:23:52.053048 [info]: new connection fd = 18

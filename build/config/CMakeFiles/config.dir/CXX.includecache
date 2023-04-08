@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzq/unix/webServer/config/Config.cpp
+Config.h
+/home/zzq/unix/webServer/config/Config.h
+
+/home/zzq/unix/webServer/config/Config.h
+iostream
+-
+unistd.h
+-
+stdlib.h
+-
+../noncopyable/noncopyable.h
+/home/zzq/unix/webServer/noncopyable/noncopyable.h
+
+/home/zzq/unix/webServer/noncopyable/noncopyable.h
+iostream
+-
+

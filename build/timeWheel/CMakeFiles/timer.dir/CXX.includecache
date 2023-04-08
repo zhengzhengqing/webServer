@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzq/unix/webServer/noncopyable/noncopyable.h
+iostream
+-
+
+/home/zzq/unix/webServer/timeWheel/timer.cpp
+timer.h
+/home/zzq/unix/webServer/timeWheel/timer.h
+
+/home/zzq/unix/webServer/timeWheel/timer.h
+time.h
+-
+iostream
+-
+string.h
+-
+netinet/in.h
+-
+stdio.h
+-
+signal.h
+-
+cassert
+-
+unistd.h
+-
+fcntl.h
+-
+sys/epoll.h
+-
+functional
+-
+../noncopyable/noncopyable.h
+/home/zzq/unix/webServer/noncopyable/noncopyable.h
+

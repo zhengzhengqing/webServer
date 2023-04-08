@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/server.dir/server.cpp.o CMakeFiles/server.dir/main.cpp.o  -o ../bin/server -rdynamic -pthread -lmuduo_base ../lib/libsqlpool.a ../lib/libconfig.a ../lib/liblog.a ../lib/libhttpconn.a ../lib/libtimer.a -lmysqlclient 

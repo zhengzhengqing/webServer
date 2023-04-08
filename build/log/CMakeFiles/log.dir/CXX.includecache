@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zzq/unix/webServer/log/BlockQueue.h
+iostream
+-
+muduo/base/Mutex.h
+/home/zzq/unix/webServer/log/muduo/base/Mutex.h
+muduo/base/Condition.h
+/home/zzq/unix/webServer/log/muduo/base/Condition.h
+assert.h
+-
+
+/home/zzq/unix/webServer/log/log.cpp
+string.h
+-
+time.h
+-
+sys/time.h
+-
+stdarg.h
+-
+log.h
+/home/zzq/unix/webServer/log/log.h
+
+/home/zzq/unix/webServer/log/log.h
+iostream
+-
+stdio.h
+-
+memory
+-
+BlockQueue.h
+/home/zzq/unix/webServer/log/BlockQueue.h
+muduo/base/Thread.h
+/home/zzq/unix/webServer/log/muduo/base/Thread.h
+

@@ -1,0 +1,257 @@
+2020-10-21 09:33:48.754699 [info]: et model
+2020-10-21 09:33:48.755097 [info]: add fd successfully !
+2020-10-21 09:34:15.406462 [info]: new connection fd = 6
+2020-10-21 09:34:15.406922 [info]: new connection fd = 7
+2020-10-21 09:34:43.620167 [info]: new connection fd = 7
+2020-10-21 09:35:35.115303 [info]: new connection fd = 8
+2020-10-21 09:35:55.288704 [info]: new connection fd = 9
+2020-10-21 09:46:22.756961 [info]: et model
+2020-10-21 09:46:22.757345 [info]: add fd successfully !
+2020-10-21 09:46:31.208009 [info]: new connection fd = 6
+2020-10-21 09:46:31.208225 [info]: new connection fd = 7
+2020-10-21 09:47:32.500492 [info]: et model
+2020-10-21 09:47:32.500986 [info]: add fd successfully !
+2020-10-21 09:47:40.481641 [info]: new connection fd = 6
+2020-10-21 09:47:40.482013 [info]: new connection fd = 7
+2020-10-21 09:48:04.304634 [info]: new connection fd = 7
+2020-10-21 09:48:43.176888 [info]: new connection fd = 8
+2020-10-21 09:48:48.306848 [info]: new connection fd = 9
+2020-10-21 09:49:08.369583 [info]: new connection fd = 10
+2020-10-21 09:49:12.846182 [info]: new connection fd = 11
+2020-10-21 10:02:13.908661 [info]: new connection fd = 12
+2020-10-21 10:04:34.943091 [info]: et model
+2020-10-21 10:04:34.943366 [info]: add fd successfully !
+2020-10-21 10:04:40.986958 [info]: new connection fd = 6
+2020-10-21 10:04:40.987926 [info]: new connection fd = 7
+2020-10-21 10:06:37.914398 [info]: et model
+2020-10-21 10:06:37.914780 [info]: add fd successfully !
+2020-10-21 10:06:40.524906 [info]: new connection fd = 6
+2020-10-21 10:06:40.525018 [info]: new connection fd = 7
+2020-10-21 10:07:14.193087 [info]: new connection fd = 8
+2020-10-21 10:07:28.694112 [info]: new connection fd = 9
+2020-10-21 10:07:42.705800 [info]: new connection fd = 10
+2020-10-21 10:07:48.704743 [info]: new connection fd = 11
+2020-10-21 10:10:08.542425 [info]: lt model
+2020-10-21 10:10:08.543124 [info]: add fd successfully !
+2020-10-21 10:10:10.441099 [info]: new connection fd = 6
+2020-10-21 10:10:10.449603 [info]: new connection fd = 7
+2020-10-21 10:10:21.214011 [info]: new connection fd = 8
+2020-10-21 10:10:26.543290 [info]: new connection fd = 9
+2020-10-21 10:10:34.601614 [info]: new connection fd = 10
+2020-10-21 10:12:49.832037 [info]: et model
+2020-10-21 10:12:49.832524 [info]: add fd successfully !
+2020-10-21 10:15:26.754900 [info]: et model
+2020-10-21 10:15:26.755328 [info]: add fd successfully !
+2020-10-21 10:15:34.051136 [info]: new connection fd = 6
+2020-10-21 10:15:34.053349 [info]: receive:GET /login HTTP/1.1
+Host: localhost:9696
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+2020-10-21 10:16:00.471977 [info]: new connection fd = 7
+2020-10-21 10:16:00.472066 [info]: receive:GET /login HTTP/1.1
+Host: localhost:9696
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+2020-10-21 10:16:00.480344 [info]: new connection fd = 8
+2020-10-21 10:25:55.472159 [info]: lt model
+2020-10-21 10:25:55.472393 [info]: add fd successfully !
+2020-10-21 10:26:04.429844 [info]: new connection fd = 6
+2020-10-21 10:26:04.430095 [info]: receive:GET /login HTTP/1.1
+Host: localhost:9696
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+2020-10-21 10:26:28.553053 [info]: new connection fd = 7
+2020-10-21 10:26:28.553137 [info]: receive:GET /login HTTP/1.1
+Host: localhost:9696
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+2020-10-21 10:27:32.239519 [info]: new connection fd = 8
+2020-10-21 10:27:32.239582 [info]: new connection fd = 9
+2020-10-21 10:28:03.883928 [info]: et model
+2020-10-21 10:28:03.884311 [info]: add fd successfully !
+2020-10-21 10:29:39.699624 [info]: new connection fd = 6
+2020-10-21 10:29:39.701193 [info]: receive:GET /login HTTP/1.1
+Host: localhost:9696
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+2020-10-21 10:30:08.955788 [info]: new connection fd = 7
+2020-10-21 10:31:48.870715 [info]: et model
+2020-10-21 10:31:48.871088 [info]: add fd successfully !
+2020-10-21 10:31:52.723079 [info]: new connection fd = 6
+2020-10-21 10:32:45.983442 [info]: new connection fd = 7
+2020-10-21 10:35:32.759410 [info]: et model
+2020-10-21 10:35:32.759780 [info]: add fd successfully !
+2020-10-21 10:35:38.046621 [info]: new connection fd = 6
+2020-10-21 10:35:56.732726 [info]: new connection fd = 7
+2020-10-21 10:36:25.493920 [info]: new connection fd = 8
+2020-10-21 10:36:25.493970 [info]: new connection fd = 9
+2020-10-21 10:36:25.900791 [info]: new connection fd = 10
+2020-10-21 10:36:26.067715 [info]: new connection fd = 11
+2020-10-21 10:36:26.235346 [info]: new connection fd = 12
+2020-10-21 10:36:26.387250 [info]: new connection fd = 13
+2020-10-21 10:36:26.556503 [info]: new connection fd = 14
+2020-10-21 10:37:10.078421 [info]: et model
+2020-10-21 10:37:10.078845 [info]: add fd successfully !
+2020-10-21 10:37:18.007835 [info]: new connection fd = 6
+2020-10-21 10:37:18.008367 [info]: new connection fd = 7
+2020-10-21 10:40:52.325571 [info]: et model
+2020-10-21 10:40:52.325951 [info]: add fd successfully !
+2020-10-21 10:40:54.647317 [info]: new connection fd = 6
+2020-10-21 10:40:54.647778 [info]: new connection fd = 7
+2020-10-21 10:43:45.681259 [info]: et model
+2020-10-21 10:43:45.681688 [info]: add fd successfully !
+2020-10-21 10:43:54.675289 [info]: new connection fd = 6
+2020-10-21 10:44:20.875871 [info]: new connection fd = 7
+2020-10-21 11:12:11.936679 [info]: et model
+2020-10-21 11:12:11.937490 [info]: add fd successfully !
+2020-10-21 11:29:47.357809 [info]: et model
+2020-10-21 11:29:47.358090 [info]: add fd successfully !
+2020-10-21 15:57:09.718693 [info]: et model
+2020-10-21 15:57:09.719098 [info]: add fd successfully !
+2020-10-21 15:58:12.544148 [info]: et model
+2020-10-21 15:58:12.544524 [info]: add fd successfully !
+2020-10-21 16:11:28.017381 [info]: et model
+2020-10-21 16:11:28.017788 [info]: add fd successfully !
+2020-10-21 16:11:36.144436 [info]: new connection fd = 6
+2020-10-21 16:12:01.785243 [info]: new connection fd = 7
+2020-10-21 16:12:22.659322 [info]: new connection fd = 8
+2020-10-21 16:14:42.380980 [info]: new connection fd = 9
+2020-10-21 16:38:54.239492 [info]: et model
+2020-10-21 16:38:54.239656 [info]: add fd successfully !
+2020-10-21 16:39:01.316588 [info]: new connection fd = 6
+2020-10-21 16:39:01.318739 [info]: new connection fd = 7
+2020-10-21 16:39:11.548336 [info]: new connection fd = 7
+2020-10-21 16:39:42.372281 [info]: new connection fd = 8
+2020-10-21 16:39:58.371303 [info]: new connection fd = 9
+2020-10-21 16:40:20.523763 [info]: new connection fd = 10
+2020-10-21 16:42:25.550238 [info]: new connection fd = 11
+2020-10-21 16:42:55.652988 [info]: new connection fd = 12
+2020-10-21 16:44:05.486377 [info]: et model
+2020-10-21 16:44:05.486812 [info]: add fd successfully !
+2020-10-21 16:44:20.274454 [info]: new connection fd = 6
+2020-10-21 16:44:20.278380 [info]: new connection fd = 7
+2020-10-21 16:45:00.278421 [info]: new connection fd = 8
+2020-10-21 16:45:23.806088 [info]: et model
+2020-10-21 16:45:23.806477 [info]: add fd successfully !
+2020-10-21 16:45:26.268927 [info]: new connection fd = 6
+2020-10-21 16:45:26.269264 [info]: new connection fd = 7
+2020-10-21 16:45:39.403092 [info]: new connection fd = 8
+2020-10-21 16:45:41.892319 [info]: new connection fd = 9
+2020-10-21 16:45:44.606893 [info]: new connection fd = 10
+2020-10-21 16:45:47.194673 [info]: new connection fd = 11
+2020-10-21 16:45:50.224136 [info]: new connection fd = 12
+2020-10-21 16:45:52.881612 [info]: new connection fd = 13
+2020-10-21 16:45:55.464961 [info]: new connection fd = 14
+2020-10-21 16:45:58.106372 [info]: new connection fd = 15
+2020-10-21 16:46:00.486195 [info]: new connection fd = 16
+2020-10-21 16:46:02.592196 [info]: new connection fd = 17
+2020-10-21 16:46:05.031890 [info]: new connection fd = 18
+2020-10-21 16:46:07.264382 [info]: new connection fd = 19
+2020-10-21 16:46:09.489298 [info]: new connection fd = 20
+2020-10-21 16:46:11.681512 [info]: new connection fd = 21
+2020-10-21 16:46:13.764272 [info]: new connection fd = 22
+2020-10-21 16:46:15.918427 [info]: new connection fd = 23
+2020-10-21 16:46:18.080427 [info]: new connection fd = 24
+2020-10-21 16:46:20.150612 [info]: new connection fd = 25
+2020-10-21 16:46:22.336792 [info]: new connection fd = 26
+2020-10-21 16:46:24.404516 [info]: new connection fd = 27
+2020-10-21 16:46:26.473520 [info]: new connection fd = 28
+2020-10-21 16:46:32.897749 [info]: new connection fd = 29
+2020-10-21 16:46:40.074640 [info]: new connection fd = 30
+2020-10-21 16:46:42.244265 [info]: new connection fd = 31
+2020-10-21 16:46:44.480888 [info]: new connection fd = 32
+2020-10-21 16:46:46.500108 [info]: new connection fd = 33
+2020-10-21 16:46:48.601062 [info]: new connection fd = 34
+2020-10-21 16:46:50.509064 [info]: new connection fd = 35
+2020-10-21 16:46:52.512279 [info]: new connection fd = 36
+2020-10-21 16:46:58.737621 [info]: new connection fd = 37
+2020-10-21 16:47:03.267362 [info]: new connection fd = 38
+2020-10-21 16:47:05.319200 [info]: new connection fd = 39
+2020-10-21 16:47:07.669315 [info]: new connection fd = 40
+2020-10-21 16:47:09.835245 [info]: new connection fd = 41
+2020-10-21 16:47:11.762330 [info]: new connection fd = 42
+2020-10-21 16:47:13.658391 [info]: new connection fd = 43
+2020-10-21 16:47:15.576553 [info]: new connection fd = 44
+2020-10-21 16:47:15.886561 [info]: new connection fd = 45
+2020-10-21 16:47:16.140342 [info]: new connection fd = 46
+2020-10-21 16:47:16.412359 [info]: new connection fd = 47
+2020-10-21 16:47:16.648110 [info]: new connection fd = 48
+2020-10-21 16:47:16.840419 [info]: new connection fd = 49
+2020-10-21 16:47:17.023895 [info]: new connection fd = 50
+2020-10-21 16:47:17.200589 [info]: new connection fd = 51
+2020-10-21 16:47:17.366584 [info]: new connection fd = 52
+2020-10-21 16:47:17.539926 [info]: new connection fd = 53
+2020-10-21 16:47:17.694275 [info]: new connection fd = 54
+2020-10-21 16:47:17.864458 [info]: new connection fd = 55
+2020-10-21 16:47:18.032094 [info]: new connection fd = 56
+2020-10-21 16:47:18.200430 [info]: new connection fd = 57
+2020-10-21 16:47:18.374364 [info]: new connection fd = 58
+2020-10-21 16:47:18.542171 [info]: new connection fd = 59
+2020-10-21 16:47:18.719790 [info]: new connection fd = 60
+2020-10-21 16:47:18.876292 [info]: new connection fd = 61
+2020-10-21 16:47:19.038260 [info]: new connection fd = 62
+2020-10-21 16:47:19.196345 [info]: new connection fd = 63
+2020-10-21 16:47:19.368166 [info]: new connection fd = 64
+2020-10-21 16:47:19.528083 [info]: new connection fd = 65
+2020-10-21 16:47:19.705757 [info]: new connection fd = 66
+2020-10-21 16:47:19.864026 [info]: new connection fd = 67
+2020-10-21 16:47:20.041258 [info]: new connection fd = 68
+2020-10-21 16:47:20.217877 [info]: new connection fd = 69
+2020-10-21 16:47:20.389759 [info]: new connection fd = 70
+2020-10-21 16:47:20.568701 [info]: new connection fd = 71
+2020-10-21 16:57:02.560290 [info]: et model
+2020-10-21 16:57:02.560439 [info]: add fd successfully !
+2020-10-21 16:57:23.167684 [info]: new connection fd = 6
+2020-10-21 16:57:23.167784 [info]: new connection fd = 7
+2020-10-21 16:57:34.556197 [info]: new connection fd = 8
+2020-10-21 16:57:36.209076 [info]: new connection fd = 9
+2020-10-21 16:57:36.831901 [info]: new connection fd = 10
+2020-10-21 16:57:37.261308 [info]: new connection fd = 11
+2020-10-21 16:57:37.732003 [info]: new connection fd = 12
+2020-10-21 16:57:38.167975 [info]: new connection fd = 13
+2020-10-21 16:57:38.533829 [info]: new connection fd = 14
+2020-10-21 16:57:38.866093 [info]: new connection fd = 15
+2020-10-21 16:57:40.931795 [info]: new connection fd = 16
+2020-10-21 16:57:41.364415 [info]: new connection fd = 17
+2020-10-21 16:57:41.848568 [info]: new connection fd = 18
+2020-10-21 16:57:42.179296 [info]: new connection fd = 19
+2020-10-21 16:57:42.432329 [info]: new connection fd = 20
+2020-10-21 16:57:42.638876 [info]: new connection fd = 21
+2020-10-21 16:57:42.857034 [info]: new connection fd = 22

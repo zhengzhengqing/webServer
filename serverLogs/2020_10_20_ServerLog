@@ -1,0 +1,162 @@
+2020-10-20 14:30:45.429924 [info]: et model
+2020-10-20 14:30:45.430322 [info]: add fd successfully !
+2020-10-20 14:31:04.660848 [info]: new connection fd = 6
+2020-10-20 14:31:04.661654 [info]: new connection fd = 7
+2020-10-20 14:31:04.695535 [info]: client has closed the connection
+2020-10-20 14:31:04.695561 [info]: delete fd successfully 
+2020-10-20 14:31:43.432243 [info]: client has closed the connection
+2020-10-20 14:31:43.432299 [info]: delete fd successfully 
+2020-10-20 14:31:43.432485 [info]: new connection fd = 6
+2020-10-20 14:31:43.432639 [info]: new connection fd = 7
+2020-10-20 14:31:43.433155 [info]: client has closed the connection
+2020-10-20 14:31:43.433184 [info]: delete fd successfully 
+2020-10-20 14:31:43.496176 [info]: new connection fd = 6
+2020-10-20 14:31:43.531107 [info]: client has closed the connection
+2020-10-20 14:31:43.531167 [info]: delete fd successfully 
+2020-10-20 14:33:44.955644 [info]: client has closed the connection
+2020-10-20 14:33:44.955699 [info]: delete fd successfully 
+2020-10-20 14:33:44.955740 [info]: new connection fd = 6
+2020-10-20 14:33:44.955793 [info]: new connection fd = 7
+2020-10-20 14:33:44.956398 [info]: client has closed the connection
+2020-10-20 14:33:44.956423 [info]: delete fd successfully 
+2020-10-20 14:33:45.018641 [info]: client has closed the connection
+2020-10-20 14:33:45.018706 [info]: delete fd successfully 
+2020-10-20 14:33:45.020104 [info]: new connection fd = 6
+2020-10-20 14:33:45.020185 [info]: new connection fd = 7
+2020-10-20 14:36:11.922149 [info]: et model
+2020-10-20 14:36:11.922546 [info]: add fd successfully !
+2020-10-20 14:36:15.791892 [info]: new connection fd = 6
+2020-10-20 14:36:15.792945 [info]: new connection fd = 7
+2020-10-20 14:36:15.822757 [info]: client has closed the connection
+2020-10-20 14:36:15.822796 [info]: delete fd successfully 
+2020-10-20 14:36:52.824740 [info]: client has closed the connection
+2020-10-20 14:36:52.824807 [info]: delete fd successfully 
+2020-10-20 14:36:52.824861 [info]: new connection fd = 6
+2020-10-20 14:36:52.824949 [info]: new connection fd = 7
+2020-10-20 14:36:52.825544 [info]: client has closed the connection
+2020-10-20 14:36:52.825576 [info]: delete fd successfully 
+2020-10-20 14:36:52.889364 [info]: new connection fd = 6
+2020-10-20 14:36:52.940164 [info]: client has closed the connection
+2020-10-20 14:36:52.940197 [info]: delete fd successfully 
+2020-10-20 14:37:35.833611 [info]: client has closed the connection
+2020-10-20 14:37:35.833670 [info]: delete fd successfully 
+2020-10-20 14:37:35.833703 [info]: new connection fd = 6
+2020-10-20 14:37:35.833778 [info]: new connection fd = 7
+2020-10-20 14:37:35.834823 [info]: client has closed the connection
+2020-10-20 14:37:35.834847 [info]: delete fd successfully 
+2020-10-20 14:37:35.906673 [info]: new connection fd = 6
+2020-10-20 14:37:35.909643 [info]: client has closed the connection
+2020-10-20 14:37:35.909705 [info]: delete fd successfully 
+2020-10-20 14:43:07.377941 [info]: et model
+2020-10-20 14:43:07.378348 [info]: add fd successfully !
+2020-10-20 14:43:13.221000 [info]: new connection fd = 6
+2020-10-20 14:43:13.221101 [info]: new connection fd = 7
+2020-10-20 14:43:13.253801 [info]: client has closed the connection
+2020-10-20 14:43:13.253844 [info]: delete fd successfully 
+2020-10-20 14:45:58.950824 [info]: client has closed the connection
+2020-10-20 14:46:22.485349 [info]: et model
+2020-10-20 14:46:22.485743 [info]: add fd successfully !
+2020-10-20 14:46:30.141985 [info]: new connection fd = 6
+2020-10-20 14:46:30.142082 [info]: new connection fd = 7
+2020-10-20 14:46:30.160587 [info]: client has closed the connection
+2020-10-20 14:46:30.160629 [info]: delete fd successfully 
+2020-10-20 14:47:40.554361 [info]: client has closed the connection
+2020-10-20 14:47:40.554434 [info]: delete fd successfully 
+2020-10-20 14:47:40.554476 [info]: new connection fd = 6
+2020-10-20 14:47:40.554554 [info]: new connection fd = 7
+2020-10-20 14:47:40.555523 [info]: client has closed the connection
+2020-10-20 14:47:40.555565 [info]: delete fd successfully 
+2020-10-20 14:47:40.618387 [info]: new connection fd = 6
+2020-10-20 14:47:40.662336 [info]: client has closed the connection
+2020-10-20 14:47:40.662408 [info]: delete fd successfully 
+2020-10-20 14:51:51.668825 [info]: et model
+2020-10-20 14:51:51.669237 [info]: add fd successfully !
+2020-10-20 14:52:00.439402 [info]: new connection fd = 6
+2020-10-20 14:53:21.747796 [info]: new connection fd = 6
+2020-10-20 14:53:21.747846 [info]: new connection fd = 7
+2020-10-20 14:54:21.157727 [info]: new connection fd = 6
+2020-10-20 14:54:21.159440 [info]: new connection fd = 6
+2020-10-20 14:54:21.220523 [info]: new connection fd = 6
+2020-10-20 14:54:26.243441 [info]: new connection fd = 6
+2020-10-20 14:54:56.262257 [info]: new connection fd = 6
+2020-10-20 14:54:56.262972 [info]: new connection fd = 6
+2020-10-20 15:00:08.570183 [info]: et model
+2020-10-20 15:00:08.570615 [info]: add fd successfully !
+2020-10-20 15:00:13.679087 [info]: new connection fd = 6
+2020-10-20 15:00:13.682495 [info]: new connection fd = 7
+2020-10-20 15:01:56.268970 [info]: new connection fd = 6
+2020-10-20 15:01:56.269055 [info]: new connection fd = 7
+2020-10-20 15:01:56.340325 [info]: new connection fd = 6
+2020-10-20 15:04:36.058755 [info]: new connection fd = 6
+2020-10-20 15:04:36.058822 [info]: new connection fd = 7
+2020-10-20 15:04:36.149174 [info]: new connection fd = 6
+2020-10-20 15:04:41.190989 [info]: new connection fd = 7
+2020-10-20 15:05:11.209827 [info]: new connection fd = 6
+2020-10-20 15:05:11.209894 [info]: new connection fd = 7
+2020-10-20 15:06:11.226269 [info]: new connection fd = 6
+2020-10-20 15:06:11.229636 [info]: new connection fd = 6
+2020-10-20 15:06:11.229717 [info]: new connection fd = 7
+2020-10-20 17:40:14.147616 [info]: et model
+2020-10-20 17:40:14.147731 [info]: add fd successfully !
+2020-10-20 17:40:24.029936 [info]: new connection fd = 6
+2020-10-20 17:44:46.522730 [info]: et model
+2020-10-20 17:44:46.523111 [info]: add fd successfully !
+2020-10-20 17:44:50.824519 [info]: new connection fd = 6
+2020-10-20 17:44:50.824655 [info]: new connection fd = 7
+2020-10-20 20:32:29.599080 [info]: et model
+2020-10-20 20:32:29.599501 [info]: add fd successfully !
+2020-10-20 20:32:58.410371 [info]: new connection fd = 6
+2020-10-20 21:30:52.709288 [info]: et model
+2020-10-20 21:30:52.709726 [info]: add fd successfully !
+2020-10-20 21:30:56.416940 [info]: new connection fd = 6
+2020-10-20 21:30:56.417059 [info]: new connection fd = 7
+2020-10-20 21:30:57.052105 [erro]: stat error
+2020-10-20 21:36:36.331427 [info]: et model
+2020-10-20 21:36:36.331857 [info]: add fd successfully !
+2020-10-20 21:36:39.162949 [info]: new connection fd = 6
+2020-10-20 21:36:39.164330 [info]: new connection fd = 7
+2020-10-20 21:38:03.595135 [info]: et model
+2020-10-20 21:38:03.595597 [info]: add fd successfully !
+2020-10-20 21:38:30.207183 [info]: new connection fd = 6
+2020-10-20 21:38:30.210009 [info]: new connection fd = 7
+2020-10-20 21:38:33.494360 [erro]: stat error errno = 2
+2020-10-20 21:38:37.528447 [info]: new connection fd = 8
+2020-10-20 21:38:37.528572 [info]: new connection fd = 9
+2020-10-20 21:38:37.528855 [erro]: stat error errno = 2
+2020-10-20 22:22:17.757254 [info]: et model
+2020-10-20 22:22:17.757716 [info]: add fd successfully !
+2020-10-20 22:22:30.772481 [info]: new connection fd = 6
+2020-10-20 22:22:30.776013 [info]: new connection fd = 7
+2020-10-20 22:23:19.955256 [info]: new connection fd = 7
+2020-10-20 22:28:56.912297 [info]: et model
+2020-10-20 22:28:56.912621 [info]: add fd successfully !
+2020-10-20 22:29:00.658017 [info]: new connection fd = 6
+2020-10-20 22:29:00.658206 [info]: new connection fd = 7
+2020-10-20 22:31:28.199923 [info]: et model
+2020-10-20 22:31:28.200354 [info]: add fd successfully !
+2020-10-20 22:31:31.472648 [info]: new connection fd = 6
+2020-10-20 22:31:31.472767 [info]: new connection fd = 7
+2020-10-20 22:31:42.580599 [info]: new connection fd = 7
+2020-10-20 22:31:48.692994 [info]: new connection fd = 8
+2020-10-20 22:31:52.021201 [info]: new connection fd = 9
+2020-10-20 22:31:58.898890 [info]: new connection fd = 10
+2020-10-20 22:32:41.244022 [info]: new connection fd = 11
+2020-10-20 22:34:04.606723 [info]: et model
+2020-10-20 22:34:04.607200 [info]: add fd successfully !
+2020-10-20 22:34:12.214801 [info]: new connection fd = 6
+2020-10-20 22:34:12.216211 [info]: new connection fd = 7
+2020-10-20 22:34:44.267579 [info]: new connection fd = 7
+2020-10-20 22:35:04.353795 [info]: new connection fd = 8
+2020-10-20 22:38:38.434190 [info]: et model
+2020-10-20 22:38:38.434623 [info]: add fd successfully !
+2020-10-20 22:38:42.610863 [info]: new connection fd = 6
+2020-10-20 22:38:42.611503 [info]: new connection fd = 7
+2020-10-20 22:38:52.822807 [info]: new connection fd = 7
+2020-10-20 22:38:53.963779 [info]: new connection fd = 8
+2020-10-20 22:38:58.856542 [info]: new connection fd = 9
+2020-10-20 22:42:26.078842 [info]: et model
+2020-10-20 22:42:26.079321 [info]: add fd successfully !
+2020-10-20 22:42:29.614424 [info]: new connection fd = 6
+2020-10-20 22:42:29.614556 [info]: new connection fd = 7
+2020-10-20 22:42:40.475089 [info]: new connection fd = 8
+2020-10-20 22:42:48.108997 [info]: new connection fd = 9

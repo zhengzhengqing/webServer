@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libsqlpool.a  CMakeFiles/sqlpool.dir/connectionpool.cpp.o
+/usr/bin/ranlib ../lib/libsqlpool.a

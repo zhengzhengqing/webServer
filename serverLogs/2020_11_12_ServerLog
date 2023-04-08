@@ -1,0 +1,53 @@
+2020-11-12 10:38:06.776931 [info]: et model
+2020-11-12 10:38:06.777340 [info]: add fd successfully !
+2020-11-12 10:38:20.822573 [info]: new connection fd = 16
+2020-11-12 10:38:20.823414 [info]: new connection fd = 17
+2020-11-12 10:39:31.962430 [info]: new connection fd = 17
+2020-11-12 10:41:49.357458 [info]: et model
+2020-11-12 10:41:49.357886 [info]: add fd successfully !
+2020-11-12 10:41:53.744433 [info]: new connection fd = 16
+2020-11-12 10:41:53.744539 [info]: new connection fd = 17
+2020-11-12 10:42:05.935574 [info]: new connection fd = 17
+2020-11-12 10:42:18.808636 [info]: new connection fd = 17
+2020-11-12 10:42:34.828035 [info]: new connection fd = 17
+2020-11-12 10:48:43.802950 [info]: et model
+2020-11-12 10:48:43.803737 [info]: add fd successfully !
+2020-11-12 10:48:52.198669 [info]: new connection fd = 16
+2020-11-12 10:48:52.198819 [info]: new connection fd = 17
+2020-11-12 10:49:11.302561 [info]: new connection fd = 17
+2020-11-12 11:34:43.279136 [info]: et model
+2020-11-12 11:34:43.279532 [info]: add fd successfully !
+2020-11-12 11:34:46.719350 [info]: new connection fd = 16
+2020-11-12 11:34:46.719424 [info]: new connection fd = 17
+2020-11-12 11:35:05.835494 [info]: new connection fd = 17
+2020-11-12 11:35:05.837306 [erro]: stat error errno = 2
+2020-11-12 11:38:16.780775 [info]: et model
+2020-11-12 11:38:16.781185 [info]: add fd successfully !
+2020-11-12 11:38:22.758687 [info]: new connection fd = 16
+2020-11-12 11:38:22.758826 [info]: new connection fd = 17
+2020-11-12 11:38:33.076866 [info]: new connection fd = 17
+2020-11-12 11:38:45.459343 [info]: new connection fd = 17
+2020-11-12 12:29:59.357551 [info]: et model
+2020-11-12 12:29:59.357908 [info]: add fd successfully !
+2020-11-12 12:30:09.507011 [info]: new connection fd = 16
+2020-11-12 12:30:09.508580 [info]: new connection fd = 17
+2020-11-12 12:30:19.708613 [info]: new connection fd = 17
+2020-11-12 12:30:19.710918 [erro]: SELECT error:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table usertb(name, password) values('zzx','123456')' at line 1
+2020-11-12 12:40:08.646296 [info]: et model
+2020-11-12 12:40:08.646402 [info]: add fd successfully !
+2020-11-12 12:42:04.713143 [info]: new connection fd = 16
+2020-11-12 12:42:04.713899 [info]: new connection fd = 17
+2020-11-12 12:42:18.787628 [info]: new connection fd = 17
+2020-11-12 12:46:14.811281 [info]: et model
+2020-11-12 12:46:14.811399 [info]: add fd successfully !
+2020-11-12 12:46:20.687694 [info]: new connection fd = 16
+2020-11-12 12:46:20.688098 [info]: new connection fd = 17
+2020-11-12 12:46:38.433533 [info]: new connection fd = 17
+2020-11-12 12:46:50.808964 [info]: new connection fd = 17
+2020-11-12 12:49:31.190132 [info]: et model
+2020-11-12 12:49:31.190245 [info]: add fd successfully !
+2020-11-12 12:49:35.530353 [info]: new connection fd = 16
+2020-11-12 12:49:51.480090 [info]: new connection fd = 17
+2020-11-12 12:50:05.900809 [info]: new connection fd = 17
+2020-11-12 12:50:25.759398 [info]: new connection fd = 17
+2020-11-12 12:50:45.317521 [info]: new connection fd = 17
